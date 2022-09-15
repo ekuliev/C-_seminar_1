@@ -1,0 +1,15 @@
+C:\Users\Ekuliev\Documents\Обучение\C#\First\Secondapp\obj\Debug\net6.0\Secondapp.csproj.AssemblyReference.cache
+C:\Users\Ekuliev\Documents\Обучение\C#\First\Secondapp\obj\Debug\net6.0\Secondapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ekuliev\Documents\Обучение\C#\First\Secondapp\obj\Debug\net6.0\Secondapp.AssemblyInfoInputs.cache
+C:\Users\Ekuliev\Documents\Обучение\C#\First\Secondapp\obj\Debug\net6.0\Secondapp.AssemblyInfo.cs
+C:\Users\Ekuliev\Documents\Обучение\C#\First\Secondapp\obj\Debug\net6.0\Secondapp.csproj.CoreCompileInputs.cache
+C:\Users\Ekuliev\Documents\Обучение\C#\First\Secondapp\bin\Debug\net6.0\Secondapp.exe
+C:\Users\Ekuliev\Documents\Обучение\C#\First\Secondapp\bin\Debug\net6.0\Secondapp.deps.json
+C:\Users\Ekuliev\Documents\Обучение\C#\First\Secondapp\bin\Debug\net6.0\Secondapp.runtimeconfig.json
+C:\Users\Ekuliev\Documents\Обучение\C#\First\Secondapp\bin\Debug\net6.0\Secondapp.dll
+C:\Users\Ekuliev\Documents\Обучение\C#\First\Secondapp\bin\Debug\net6.0\Secondapp.pdb
+C:\Users\Ekuliev\Documents\Обучение\C#\First\Secondapp\obj\Debug\net6.0\Secondapp.dll
+C:\Users\Ekuliev\Documents\Обучение\C#\First\Secondapp\obj\Debug\net6.0\refint\Secondapp.dll
+C:\Users\Ekuliev\Documents\Обучение\C#\First\Secondapp\obj\Debug\net6.0\Secondapp.pdb
+C:\Users\Ekuliev\Documents\Обучение\C#\First\Secondapp\obj\Debug\net6.0\Secondapp.genruntimeconfig.cache
+C:\Users\Ekuliev\Documents\Обучение\C#\First\Secondapp\obj\Debug\net6.0\ref\Secondapp.dll
